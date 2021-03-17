@@ -1,0 +1,16 @@
+1. is usestate which is in app.js
+# if you dont want to use class components in reactjs than we will use functional components in which react hooks is everything.
+# hooks means connect karna react features ke saath (features have multiple option)
+# where we will use hooks -> if you write a function component and realize you need to add some state to it there we use hooks pereviously we use class but now now we use hooks  
+# npm create-react-app means woh aapka globally install karta han whereas npx means woh globally install nahi hoga while using npx make sure aapne react ko gobally install nahi kiya hoga otherwise it will give error
+
+
+# npx create-react-app appname (make sure all things r small while in npm also) -> it will take some time to install depends on your net speed
+-> for run do npm start
+-> in src go to app.js than delete everything after that write rafce also change in app.css
+-> in curly braces we write js thats why react have more power
+-> the console part we will see in chrome using inspect
+# usestate hooks means uske state ko chnage karna for eg- if i will click on the button that whatever i will see in window it will change
+-> it returns an array ismain jo 0 index main initial value jata han
+-> usestate will return [initial value, function]
+-> put semicolon everywhere
